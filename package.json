@@ -1,0 +1,24 @@
+{
+  "name": "wecom-agent",
+  "version": "1.0.0",
+  "description": "企业微信API-应用管理 SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynu/wecom-agent.git"
+  },
+  "author": "na57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynu/wecom-agent/issues"
+  },
+  "homepage": "https://github.com/ynu/wecom-agent#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "node-fetch": "^2.6.7",
+    "wecom-common": "^1.1.0"
+  }
+}
